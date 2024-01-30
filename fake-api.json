@@ -1,0 +1,39 @@
+{
+  "agenda": [
+    {
+      "name": "Paco",
+      "surname": "Leon",
+      "phone": 123456789,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/376569484/display_1500/stock-photo-pretty-young-woman-is-expressing-her-positivity-376569484.jpg",
+      "id": 1
+    },
+    {
+      "name": "Alberto",
+      "surname": "Díaz",
+      "phone": 987654321,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/1554086789/display_1500/stock-photo-close-up-portrait-of-yong-woman-casual-portrait-in-positive-view-big-smile-beautiful-model-posing-1554086789.jpg",
+      "id": 2
+    },
+    {
+      "name": "Susana",
+      "surname": "Delgado",
+      "phone": 87162514142,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/1151367173/display_1500/stock-photo-indoor-shot-of-happy-young-girl-wears-blue-longsleeve-feels-joy-and-glad-isolated-over-white-wall-1151367173.jpg",
+      "id": 3
+    },
+    {
+      "name": "Rebeca",
+      "surname": "Santamayor",
+      "phone": 8176325142,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/1736662955/display_1500/stock-photo-portrait-of-beautiful-young-woman-isolated-on-gray-background-feeling-positive-and-shy-wearing-1736662955.jpg",
+      "id": 4
+    },
+    {
+      "name": "Alberto",
+      "surname": "De la Cruz",
+      "phone": 8173261521,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/2217619495/display_1500/stock-photo-headshot-of-young-woman-wearing-white-turtleneck-sweater-and-wireless-earphones-smiling-happily-at-2217619495.jpg",
+      "id": 5
+    }
+  ]
+}
